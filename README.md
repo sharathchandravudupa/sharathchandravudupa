@@ -20,7 +20,7 @@ Languages:
 📊 Projects  
 🌿 Medicinal Plant Classifier | MobileNetV2 + PCA + Fuzzy C-Means | Github  
 Hybrid DL model with 91% accuracy for plant species identification.  
-📜 Student Certificate Validation System | Blockchain & QR-based verification | Github  
+📜 Student Certificate Validation System | Blockchain & QR-based verification | [Github](https://github.com/sharathchandravudupa/Block-Chain-Technology/tree/Projects/Code)   
 Decentralized system with secure certificate issuance and tamper-proof records.  
 🛡️ IoT Anti-Theft Flooring System | Microcontroller + GSM + OTP | Github  
 Real-time intrusion alerts with OTP-based secure access.  
