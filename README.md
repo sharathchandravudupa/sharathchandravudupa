@@ -10,6 +10,7 @@
 
 🛠 Tech Stack
 Languages:  
+
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/)  [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)](https://isocpp.org/)    
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)](https://pytorch.org/)    [![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)](https://scikit-learn.org/)  
 [![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql)](https://www.mysql.com/)  [![REST API](https://img.shields.io/badge/-REST%20API-0088CC?style=flat)](https://restfulapi.net/)  [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)    
@@ -18,6 +19,7 @@ Languages:
 
 
 📊 Projects  
+
 🌿 Medicinal Plant Classifier | MobileNetV2 + PCA + Fuzzy C-Means | Github  
 Hybrid DL model with 91% accuracy for plant species identification.  
 📜 Student Certificate Validation System | Blockchain & QR-based verification | [Github](https://github.com/sharathchandravudupa/Block-Chain-Technology/tree/Projects/Code)   
