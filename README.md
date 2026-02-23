@@ -25,3 +25,9 @@ Decentralized system with secure certificate issuance and tamper-proof records.
 🛡️ IoT Anti-Theft Flooring System | Microcontroller + GSM + OTP  
 Real-time intrusion alerts with OTP-based secure access.  
 📄 Published in *E3S Web of Conferences* 2024: [DOI: 10.1051/e3sconf/202450701019](https://doi.org/10.1051/e3sconf/202450701019)
+
+
+
+
+## 🤝🏻 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sharathchandra9491@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-chandra-9a679422a/)
