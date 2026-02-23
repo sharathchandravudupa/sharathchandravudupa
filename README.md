@@ -22,5 +22,6 @@ Languages:
 Hybrid DL model with 91% accuracy for plant species identification.  
 📜 Student Certificate Validation System | Blockchain & QR-based verification | [Github](https://github.com/sharathchandravudupa/Block-Chain-Technology/tree/Projects/Code)   
 Decentralized system with secure certificate issuance and tamper-proof records.  
-🛡️ IoT Anti-Theft Flooring System | Microcontroller + GSM + OTP | Github  
+🛡️ IoT Anti-Theft Flooring System | Microcontroller + GSM + OTP  
 Real-time intrusion alerts with OTP-based secure access.  
+📄 Published in *E3S Web of Conferences* 2024: [DOI: 10.1051/e3sconf/202450701019](https://doi.org/10.1051/e3sconf/202450701019)
