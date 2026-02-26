@@ -16,6 +16,7 @@ Languages:
 [![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql)](https://www.mysql.com/)  [![REST API](https://img.shields.io/badge/-REST%20API-0088CC?style=flat)](https://restfulapi.net/)  [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)    
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://getbootstrap.com/)  [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)](https://streamlit.io/)  [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)](https://flask.palletsprojects.com/) 
   [![DSA](https://img.shields.io/badge/-DSA-4CAF50?style=flat&logo=algorithm)]() [![OOPS](https://img.shields.io/badge/-OOPS-2196F3?style=flat&logo=oops)]()
+  [![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)](https://github.com/django/django)
 
 
 📊 Projects  
